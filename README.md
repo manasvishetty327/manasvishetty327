@@ -41,10 +41,10 @@ I am an Information Science and Engineering graduate interested in building prac
 ### AI & Application Development
 
 - **[Course Content Simplification Agent](https://github.com/manasvishetty327/Course-Content-Simplification-Agent)**  
-  An AI-focused project exploring ways to simplify learning content.
+  An IBM watsonx.ai Agent Lab prototype using Granite, LangGraph, and research tools to simplify academic material into clearer explanations.
 
 - **[VistaraAI – Startup Blueprint Generator](https://github.com/manasvishetty327/VistaraAI---Startup-Blueprint-Generator)**  
-  An AI-oriented project focused on generating startup blueprint content.
+  A watsonx.ai prototype combining Mistral Large, a RAG knowledge index, and research tools to structure early-stage startup ideas into business plans.
 
 ## What I'm Learning
 
