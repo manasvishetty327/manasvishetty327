@@ -56,8 +56,6 @@ I am an Information Science and Engineering graduate interested in building prac
 ## Connect
 
 - **GitHub:** [@manasvishetty327](https://github.com/manasvishetty327)
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your preferred professional email here
 
 ---
 
