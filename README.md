@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Manasvi Shetty
 
-<!--
-**manasvishetty327/manasvishetty327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Android Development | Java | Python | Data Analytics**
 
-Here are some ideas to get you started:
+I am an Information Science and Engineering graduate interested in building practical software applications, Android experiences, and data-driven solutions. I enjoy learning by building projects and improving them through clean implementation and clear documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working as an **IT Intern**, gaining experience with software systems, application workflows, and technical problem-solving.
+- Interested in **Software Development Engineer** and **Android Developer** opportunities.
+- Working with **Java, Kotlin, Python, SQL, and Android development**.
+- Exploring AI-powered applications, local LLMs, and data analytics.
+
+## Technical Skills
+
+**Programming:** Java, Kotlin, Python, SQL
+
+**Android:** Android Studio, Jetpack Compose, Navigation Compose, Room Database, MVVM, Coroutines, Firebase
+
+**Data & Analytics:** Pandas, NumPy, Streamlit, Power BI, MySQL
+
+**Tools & Concepts:** Git, GitHub, REST APIs, SQLite, RAG, Local LLMs
+
+## Featured Projects
+
+### Android Development
+
+- **[Hasta Kala Shop](https://github.com/manasvishetty327/HastaKala)**  
+  An offline Android application for artisans and small businesses to record sales, manage stock, and view product insights. Built with Kotlin, Jetpack Compose, Room, MVVM, and MPAndroidChart.
+
+- **[Android KYC Assignment](https://github.com/manasvishetty327/android-kyc-assignment)**  
+  An Android application demonstrating a structured app architecture, Jetpack Compose UI, and API integration.
+
+### Data Analytics
+
+- **[Ola Ride Insights Dashboard](https://github.com/manasvishetty327/OLA-RIDE)**  
+  An interactive ride analytics dashboard using Python, Pandas, SQL, Streamlit, Plotly, and Power BI.  
+  [Open live dashboard](https://ola-ride123.streamlit.app/)
+
+- **[Local Food Wastage Management](https://github.com/manasvishetty327/Local_Food_Wastage_Management)**  
+  A Streamlit and MySQL application for exploring food listings, provider and receiver activity, claims, and distribution insights.
+
+### AI & Application Development
+
+- **[Course Content Simplification Agent](https://github.com/manasvishetty327/Course-Content-Simplification-Agent)**  
+  An AI-focused project exploring ways to simplify learning content.
+
+- **[VistaraAI – Startup Blueprint Generator](https://github.com/manasvishetty327/VistaraAI---Startup-Blueprint-Generator)**  
+  An AI-oriented project focused on generating startup blueprint content.
+
+## What I'm Learning
+
+- Strengthening problem-solving and data structures using Java.
+- Building maintainable Android applications.
+- Improving software engineering practices and API integration.
+- Exploring retrieval-augmented generation and local AI workflows.
+
+## Connect
+
+- **GitHub:** [@manasvishetty327](https://github.com/manasvishetty327)
+- **LinkedIn:** Add your LinkedIn profile URL here
+- **Email:** Add your preferred professional email here
+
+---
+
+*I believe in continuous learning, practical problem-solving, and building software that solves real problems.*
